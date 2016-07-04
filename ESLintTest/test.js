@@ -13,3 +13,5 @@ var foo = bar;
 var test = test21;
 var b;
 
+var d = e;
+
