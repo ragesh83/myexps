@@ -11,4 +11,5 @@ if(true) alert("ok")
 var foo = bar;
 
 var test = test21;
+var b;
 
